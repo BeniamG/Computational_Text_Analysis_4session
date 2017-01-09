@@ -1,5 +1,5 @@
 # Text Analysis Fundamentals: Methods and Approaches 
-## D-Lab Workshop  In Four 2hr Session, 4-6p, Jan 9-712, 2017
+## D-Lab Workshop  In Four 2hr Session, 2-4p, Jan 9-12, 2017
 Welcome to a workshop designed to equip new comers with critical intuition and foundational technical tools to interpret and undertake computational text analysis.  Over the course of four two hour workshops we will cover the following topics:
 
 1. Text Analysis Fundamentals: Basic Tools and Techniques
