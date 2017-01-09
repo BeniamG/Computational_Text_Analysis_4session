@@ -1,0 +1,5 @@
+text1.txt - 
+text2.txt -
+text3.txt - “The Communist Manifesto” by Friedrich Engels and Karl Marx http://www.gutenberg.org/ebooks/61
+text4.txt - “The Prince” by Niccolò Machiavelli http://www.gutenberg.org/ebooks/1232
+text5.txt - “An Inquiry into the Nature and Causes of the Wealth of Nations” by Adam Smith http://www.gutenberg.org/ebooks/3300
